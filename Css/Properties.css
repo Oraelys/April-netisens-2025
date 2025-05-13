@@ -1,0 +1,32 @@
+.p1 {
+
+    height: 100px;
+    width: 100px;
+    background-color: #dbbf1d;
+    z-index: 3;
+    /* float: right; */
+}
+
+
+
+
+.p2 {
+    height: 100px;
+    width: 100px;
+    background-color: #e70303;
+    z-index: 2;
+    /* float: left; */
+
+}
+
+
+.p3 {
+    height: 100px;
+    width: 100px;
+    background-color: #08a7e6;
+    z-index: 1;
+}
+
+.div {
+    display: flex;
+}
